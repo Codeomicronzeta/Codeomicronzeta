@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am a Data Science and Machine Learning enthusiast.
-
+I am passionate about everything related to Data, Machine Learning and Distributed Computing, exploring them driven by curiosity!
 
 
 
